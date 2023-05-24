@@ -1,0 +1,21 @@
+h1 {
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: black;
+  font-family: sans-serif;
+}
+
+body {
+  height: 618px;
+  background-image: linear-gradient(to top right, blue, lightskyblue);
+  animation: normal;
+  font-family: sans-serif;
+ 
+}
+
